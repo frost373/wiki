@@ -1,2 +1,2 @@
 # wiki  
-![image](http://www.kitdb.top/pic/maven.svg)
+![image](http://47.98.188.158/pic/maven.svg)
